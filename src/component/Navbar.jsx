@@ -2,7 +2,7 @@ import React from 'react'
 import {useState} from 'react';
 import { MdOutlineMenu } from "react-icons/md";
 import { LuSunMoon } from "react-icons/lu";
-import { LuMoonStar } from "react-icons/lu";
+import { LuMoonStar } from "react-icons/lu";npm 
 import {motion} from 'framer-motion';
 function Navbar() {
     const listItem =[
