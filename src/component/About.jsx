@@ -8,7 +8,7 @@ function About() {
   return (
     <>
     {/* small-medium devices  */}
-    <div className="md:hidden dark:bg-slate-900 h-screen grid grid-rows-6 overflow-hidden">
+    <div className="md:hidden dark:bg-slate-900 h-screen grid grid-rows-6">
     <div className="row-start-2 h-[20rem] flex justify-center">
     <motion.img 
     initial={{y:100,opacity:0}}
